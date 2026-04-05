@@ -184,3 +184,4 @@ reviews.csv
 listings_clean.csv
 .venv/
 data/
+.DS_Store
